@@ -1,6 +1,6 @@
 # NWL Pocket: Organize suas metas e alcance mais!
 
-NWL Pocket é um aplicativo simples e eficiente para te ajudar a organizar suas metas e acompanhar seu progresso. Crie listas de tarefas, marque o que já foi concluído e receba lembretes para manter o foco nos seus objetivos. Ideal para quem busca mais produtividade e organização no dia a dia.
+Aplicativo simples e eficiente para te ajudar a organizar suas metas e acompanhar seu progresso. Crie listas de tarefas, marque o que já foi concluído e receba lembretes para manter o foco nos seus objetivos. Ideal para quem busca mais produtividade e organização no dia a dia.
 
 ## Funcionalidades 
 
